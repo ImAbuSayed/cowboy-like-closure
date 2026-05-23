@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cowboy-like-closure/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Cowboy Like Closure](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cowboy-like-closure/) |
+| **Get License** | [Get a Licensing Quote for Cowboy Like Closure](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cowboy-like-closure/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1e9d0186368fa222ff6755eb3fcded914feb638503592a63ccaa5eb35adecc7d` |
 | **Timestamp** | May 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
