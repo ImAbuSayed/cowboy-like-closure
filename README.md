@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cowboy-like-closure/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Cowboy Like Closure](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cowboy-like-closure/) |
+| **Get License** | [Commercial Licensing for Cowboy Like Closure](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cowboy-like-closure/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pour a little bourbon, let the moonlight fall
+> I've been waiting for this midnight call
+> Every shadow brings you close to me
+> This is exactly where we're meant to be
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
